@@ -1,6 +1,6 @@
 # Extended Kalman Filter
 
-This Kalman Filter was used to fuse GPS and IMU sensor data using Bayesian estimation. This was done on an industrial power line robot used to inspect entire spans of electrical lines in an autonimous way. The novelty in the problem comes from the inability to use magnetometer data to reduce drfit in the accelerometer estimates as a result of high current carrying wires. 
+This [Extended Kalman Filter](https://en.wikipedia.org/wiki/Extended_Kalman_filter#Predict) was used to fuse GPS and IMU sensor data using Bayesian estimation. This was done on an industrial power line robot used to inspect entire spans of electrical lines in an autonimous way. The novelty in the problem comes from the inability to use magnetometer data to reduce drfit in the accelerometer estimates as a result of high current carrying wires. 
 
 Parameters estimated were:
 
