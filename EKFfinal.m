@@ -1,6 +1,4 @@
-%Full EKF symbolic baby
-%remember all the preprocessing of data!
-%leave out bias states for now but include for performance comparisons later on
+%Full EKF symbolic
 %------------------------------------------------------------------------------------
 %{
 %symbolic function declarations====================================================== 
